@@ -2,6 +2,7 @@
 [![Banner](banner.jpg)](https://github.com/arjeeeen/Scan-porte/banner.jpg)
 
 Questo progetto è un bot Telegram progettato per eseguire scansioni su reti locali e identificare i dispositivi connessi insieme alle porte aperte su indirizzi IP specifici. Il bot è sviluppato utilizzando Python e sfrutta librerie come `scapy` e `telegram`.
+Puoi comunque utilizzare il mio Bot qui: https://t.me/ScannerAVSbot
 
 ## Requisiti del Progetto
 
