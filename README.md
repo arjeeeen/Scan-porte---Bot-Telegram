@@ -7,7 +7,7 @@ Puoi comunque utilizzare il mio Bot qui: https://t.me/ScannerAVSbot
 
 ## Menu
 
-[![Banner](banner.jpg)](https://github.com/arjeeeen/Scan-porte---Bot-Telegram/Menu.png)
+![Menu](https://github.com/arjeeeen/Scan-porte---Bot-Telegram/raw/main/Menu.png)
 
 ## Requisiti del Progetto
 
