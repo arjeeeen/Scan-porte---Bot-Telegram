@@ -1,0 +1,4 @@
+scapy
+python-telegram-bot
+netifaces
+nest_asyncio
